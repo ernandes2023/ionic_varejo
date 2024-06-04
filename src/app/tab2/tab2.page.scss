@@ -1,0 +1,53 @@
+.img1{
+    font-size: large;
+    width: 30px;
+    margin-right: -50px;
+    
+};
+.div1{
+    display: flex;
+    margin: 20px;
+    justify-content: space-around
+};
+b{
+    font-size: 12px;
+};
+h2{
+    font-size: 18px;
+};
+.local{
+   margin-left:  -50px;
+};
+.taboao{
+   margin-left: -170px;
+   font-size: 12px;
+};
+.div2{
+    margin: 50px;
+};
+.div3{
+   margin-left: 50px;
+   justify-content: space-around;
+};
+.categorias{
+    margin-left: 50px;
+
+};
+.btnvd{
+    --background: #7bb08a;
+    --border-radius: 20px;
+    height: 160;
+    width: 160;
+};
+.btnaz{
+    --background:#92b6fa;
+    --border-radius: 20px;
+    height: 160;
+    width: 160;
+};
+.btnmr{
+    --background: #f0bdb2;
+    --border-radius: 20px;
+    height: 160;
+    width: 160;
+};
